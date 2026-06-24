@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.db
+*.sqlite3
+
+.env
+
+data/raw/nav_api/
+
+.vscode/
